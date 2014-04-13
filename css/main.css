@@ -119,7 +119,8 @@ a:hover {
 /*****************************************************************************/
 
 #date {
-  padding-top: 0.5em;
+  color: #777;
+  font-size: 1.5em;
 }
 
 #cover-photo-container,
@@ -128,15 +129,15 @@ a:hover {
 }
 
 #info-container {
-  margin-top: 3em;
+  margin-top: 1.5em;
   margin-bottom: 1em;
 }
 
 #title {
   color: #494949;
-  margin-bottom: 0.35em;
   font-size: 3.5em;
   text-transform: uppercase;
+  line-height: 100%;
 }
 
 .post {
