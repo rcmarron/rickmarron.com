@@ -6,7 +6,7 @@ date:   2014-04-09 12:00:00
 categories: posts
 ---
 
-During the summer of 2012, I spent four months on the Appalachian Trail. As I look back on that experience, what stands out to me are not the encounters with moose and bears. Its not the impeccable nights spent on the White Mountains, and it isn't the run-ins with peculiar mountain men. What stands out now, two years later, is the incredible focus that the Appalachian Trail allowed.
+During the summer of 2012, I spent four and a half months on the Appalachian Trail. As I look back on that experience, what stands out to me are not the encounters with moose and bears. Its not the impeccable nights spent on the White Mountains, and it isn't the run-ins with peculiar mountain men. What stands out now, two years later, is the incredible focus that the Appalachian Trail allowed.
 
 Throughout those four months, I had a single goal: hike to Mt. Katahdin. This goal captivated and consumed me. Every action I took was focused on achieving it. When I went into a town to buy groceries, I counted the ounces for each purchase. Ensuring it wouldn't weigh me down. When I was going to sleep, I would read my maps and guide books to plan out the next day. When I ate, I would keep meals small, so I could immediately continue to hike. 
 
